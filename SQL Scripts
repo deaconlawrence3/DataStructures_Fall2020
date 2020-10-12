@@ -1,5 +1,9 @@
   -- This file will contain all scripts needed for project
-
-  /* Write a short descritpion for the script you're 
-     adding in a comment block like this
+ /* Give a breif description of what your script does
+    in a single/block comment line with your name and when
+    the script was added to this file.
+    
+    Sample:
+    -- My New Script Adds Table: YOUR NAME - 10/11/2020
+    <SQL SCRIPT GOES HERE>
   */
