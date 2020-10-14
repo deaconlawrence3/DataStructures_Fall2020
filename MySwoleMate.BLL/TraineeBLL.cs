@@ -13,6 +13,8 @@ namespace MySwoleMate.BLL
         //Instance of the Data Access Layer class for Trainees
         private TraineeDAL data;
 
+        //THIS IS A TEST COMMENT IN THE TRAINEEBLL FILE!!!!
+
         //Constructor that accepts a connectionString from the Presentation Layer,
         //Use the connectionString to pass into a new instance of the Data Access Layer class
         //TraineeDAL
