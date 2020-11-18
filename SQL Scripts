@@ -7,8 +7,5 @@
     -- My New Script Adds Table: YOUR NAME - 10/11/2020
     <SQL SCRIPT GOES HERE>
     
-    
-    --  THIS IS A TEST COMMENT 
-    
-    PULL TEST -- 10/20/2020
+    -- This is a testing comment to test the commit/pull process   
   */
